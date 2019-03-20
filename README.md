@@ -9,7 +9,7 @@ Three experiments were developed:
 In all of them three sets were considered, the original dataset, the
 dominating dataset and a random dataset. Besides, the Algorithm based
 in proximity graphs and dominating sets was implemented and can be
-found in.
+found in Docs folder.
 
 In order to run all the experiment, move docs folder files into the
 same folder as the Jupyter notebooks. Then, it should run without any
