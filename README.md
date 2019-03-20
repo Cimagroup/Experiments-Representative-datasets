@@ -23,7 +23,7 @@ problem.
 * gudhi
 
 
-#### Experiments were run on a computer with four AMD opteron 6348 processor running at 2,8GHz using 256 GB of RAM and 1 nVidia Tesla K40 para cálculos con GPU
+#### Experiments were run on a computer with four AMD opteron 6348 processor running at 2,8GHz using 256 GB of RAM and 1 nVidia Tesla K40.
 
 
 #### Take in account that some of the cells of the notebooks might take a long time to perform. 
