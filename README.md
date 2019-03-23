@@ -1,4 +1,4 @@
-# Experiments of the paper "Representative Datasets: The Perceptron Case" [(You can find it here)](https://arxiv.org/abs/1903.08519) .
+# Experiments of the paper "Representative Datasets: The Perceptron Case"
 
 Three experiments were developed:
 
@@ -27,3 +27,5 @@ problem.
 
 
 #### Take in account that some of the cells of the notebooks might take a long time to perform. 
+
+The paper can be found [(here)](https://arxiv.org/abs/1903.08519).
