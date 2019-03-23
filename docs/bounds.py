@@ -34,20 +34,6 @@ def rho(m,wx,wx_):
     else:
         return sigmoid_der(m,math.log(m))
     
-def tight_bound(x,x_,w,w_,lr,c,epsilon  = 0.5):
-    wx = np.dot(w[1:],x)+w[0]
-    wx_ = np.dot(w_[1:],x_)+w_[0]
-    return (distance(w,w_)+lr*(distance(wx,wx_)*norm(x)*(c*rho(1,wx,wx_)
-            +(c+1)*rho(2,wx,wx_)
-            +rho(3,wx,wx_))
-            +distance(x,x_)*(abs(c*p.sigmoid(wx_)
-            -(c+1)*p.sigmoid(wx_)**2
-            +p.sigmoid(wx_)**3))))
-       
-def not_tight_bound(x,x_,w,w_,lr,c):
-    wx = np.dot(w[1:],x)+w[0]
-    wx_ = np.dot(w_[1:],x_)+w_[0]
-    return (distance(w,w_)+lr*(abs(wx-wx_)*norm(x)*(17*c/18+499/576)+distance(x,x_)*(c/4+1)))
  
 def closest_node(node, nodes):
     dist_2 = np.abs(nodes - node)
