@@ -1,4 +1,4 @@
-# Experiments of the paper "Representative Datasets: The Perceptron Case".
+# Experiments of the paper "Representative Datasets: The Perceptron Case" [(You can find it here)](https://arxiv.org/abs/1903.08519) .
 
 Three experiments were developed:
 
