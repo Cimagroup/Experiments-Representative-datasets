@@ -1,10 +1,11 @@
 # Experiments of the paper "Representative Datasets: The Perceptron Case"
 
-Three experiments were developed:
+Four experiments were developed:
 
 1. Iris dataset experiment,
 2. Two interlaced torus dataset experiment,
 3. Digits dataset experiment.
+4. Different synthetic datasets. 
 
 In all of them three sets were considered, the original dataset, the
 dominating dataset and a random dataset. Besides, the Algorithm based
