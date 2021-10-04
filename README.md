@@ -3,30 +3,23 @@
 Four experiments were developed:
 
 1. Iris dataset experiment,
-2. Two interlaced torus dataset experiment,
-3. Digits dataset experiment.
-4. Different synthetic datasets. 
+2. Digits dataset experiment.
+3. Different synthetic datasets. 
 
 In all of them three sets were considered, the original dataset, the
 dominating dataset and a random dataset. Besides, the Algorithm based
 in proximity graphs and dominating sets was implemented and can be
-found in Docs folder.
+found in the [auxiliary_fun.py](https://github.com/Cimagroup/Experiments-Representative-datasets/blob/master/notebooks/auxiliary_fun.py).
 
-In order to run all the experiment, move docs folder files into the
-same folder as the Jupyter notebooks. Then, it should run without any
-problem.
-
-
-### List of needed libraries
+### List of main needed libraries
 
 * ripser
 * keras
 * gudhi
+* Giotto-tda
 
 
-#### Experiments were run on a computer with four AMD opteron 6348 processor running at 2,8GHz using 256 GB of RAM and 1 nVidia Tesla K40.
+#### Experiments were run on a computer with Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
 
 
-#### Take in account that some of the cells of the notebooks might take a long time to perform. 
-
-The paper can be found [(here)](https://arxiv.org/abs/1903.08519).
+An old preprint version of the paper can be found [(here)](https://arxiv.org/abs/1903.08519).
