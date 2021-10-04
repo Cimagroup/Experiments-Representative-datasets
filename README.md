@@ -1,4 +1,4 @@
-# Experiments of the paper "Representative Datasets: The Perceptron Case"
+# Representative Datasets
 
 Four experiments were developed:
 
