@@ -1,6 +1,6 @@
 # Representative Datasets
 
-Four experiments were developed:
+Three experiments were developed:
 
 1. Iris dataset experiment,
 2. Digits dataset experiment.
