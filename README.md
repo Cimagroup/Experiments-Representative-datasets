@@ -1,5 +1,7 @@
 # Representative Datasets
 
+> Gonzalez-Diaz, R., Gutiérrez-Naranjo, M.A. & Paluzo-Hidalgo, E. Topology-based representative datasets to reduce neural network training resources. Neural Comput & Applic 34, 14397–14413 (2022). [(Paper)](https://doi.org/10.1007/s00521-022-07252-y)
+
 Three experiments were developed:
 
 1. Iris dataset experiment,
